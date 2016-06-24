@@ -1,9 +1,15 @@
 
 /*
+
 The Marriage
+
 Original game by Rod Humble
-HTML Canvas port by Giacomo Preciado
 http://www.rodvik.com/rodgames/marriage.html
+
+HTML Canvas port by Giacomo Preciado
+Game: kyrie.pe/the_marriage
+GitHub: https://github.com/giacomopc/the-marriage 
+
 */
 
 var InvalidMousePosition = vector2(-1000, -1000)

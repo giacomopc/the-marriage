@@ -1,9 +1,15 @@
 
 /*
+
 The Marriage
+
 Original game by Rod Humble
+http://www.rodvik.com/rodgames/marriage.html
+
 HTML Canvas port by Giacomo Preciado
-Original game: http://www.rodvik.com/rodgames/marriage.html
+Game: kyrie.pe/the_marriage
+GitHub: https://github.com/giacomopc/the-marriage 
+
 */
 
 
